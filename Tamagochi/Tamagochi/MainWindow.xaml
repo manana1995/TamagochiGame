@@ -25,5 +25,17 @@
                 </Button.Background>
             </Button>
         </WrapPanel>
+        <Label Height="100" HorizontalAlignment="Left" Margin="441,0,0,0" Name="label2" VerticalAlignment="Top" Width="170" FontSize="32" FontWeight="Bold" FontFamily="Arabic Typesetting" VerticalContentAlignment="Bottom">
+            <Label.Background>
+                <ImageBrush ImageSource="/Tamagochi;component/Images/dolar_670_auto_635_auto.png" />
+            </Label.Background>
+        </Label>
+        <Label Content="Label" Height="38" HorizontalAlignment="Center" Margin="441,106,0,0" Name="labelMoney" VerticalAlignment="Top" Width="170" FontFamily="Arabic Typesetting" FontSize="36" FontWeight="Bold" HorizontalContentAlignment="Right" />
+        <Button Height="120" HorizontalAlignment="Left" Margin="447,480,0,0" Name="button1" VerticalAlignment="Top" Width="176" BorderThickness="4" BorderBrush="Black">
+            <Button.Background>
+                <ImageBrush ImageSource="/Tamagochi;component/Images/537c645bb7a2ade8be67877a1.png" />
+            </Button.Background>
+        </Button>
+        <Image Height="350" HorizontalAlignment="Left" Margin="0,124,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="611" />
     </Grid>
 </Window>

@@ -19,15 +19,17 @@ namespace Tamagochi
     /// </summary>
     public partial class MainWindow : Window
     {
+        int money = 10;
         public MainWindow()
         {
             InitializeComponent();
-            HealthBar.progressBar1.Value = 100;
+            HealthBar.progressBar1.Value = 50;
             HealthBar.label1.Content = "Health";
-            MoodBar.progressBar1.Value = 100;
+            MoodBar.progressBar1.Value = 20;
             MoodBar.label1.Content = "Mood";
-            HungerBar.progressBar1.Value = 100;
+            HungerBar.progressBar1.Value = 70;
             HungerBar.label1.Content = "Hunger";
+            labelMoney.Content = money + "$";
         }
     }
 }

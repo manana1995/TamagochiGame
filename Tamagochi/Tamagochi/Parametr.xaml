@@ -8,5 +8,6 @@
     <Grid Background="{x:Null}">
         <ProgressBar Height="18" HorizontalAlignment="Left" Margin="12,51,0,0" Name="progressBar1" VerticalAlignment="Top" Width="107" BorderThickness="2" BorderBrush="Black" ValueChanged="progressBar1_ValueChanged" />
         <Label Content="SomeText" Height="33" HorizontalAlignment="Left" Margin="34,12,0,0" Name="label1" VerticalAlignment="Top" Width="114" FontSize="18" FontFamily="Kartika" FontStretch="Normal" FontWeight="Bold" />
+        <Label Content="Label" Height="19" HorizontalAlignment="Left" Margin="52,50,0,0" Name="labelPercent" VerticalAlignment="Top" Width="30" FontSize="8" FontWeight="Bold" />
     </Grid>
 </UserControl>

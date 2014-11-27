@@ -26,6 +26,7 @@ namespace Tamagochi
 
         private void progressBar1_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
+            labelPercent.Content = progressBar1.Value + "%";
             if (progressBar1.Value < 35)
                 progressBar1.Foreground = Brushes.DarkRed;
             else
