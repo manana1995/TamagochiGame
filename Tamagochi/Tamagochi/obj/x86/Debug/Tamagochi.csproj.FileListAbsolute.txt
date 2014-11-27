@@ -1,0 +1,12 @@
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\bin\Debug\Tamagochi.pdb
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi_MarkupCompile.cache
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.g.resources
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.Parametr.resources
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.Properties.Resources.resources
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.csproj.GenerateResource.Cache
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.exe
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\Tamagochi\obj\x86\Debug\Tamagochi.pdb
