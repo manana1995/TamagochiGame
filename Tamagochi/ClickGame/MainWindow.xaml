@@ -1,0 +1,14 @@
+﻿<Window x:Class="ClickGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="342" Width="438">
+    <Grid>
+        <ProgressBar Height="280" HorizontalAlignment="Left" Margin="332,12,0,0" Name="progressBar1" VerticalAlignment="Top" Width="72" Orientation="Vertical" />
+        <Label Height="280" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" Width="304" MouseLeftButtonDown="label1_MouseLeftButtonDown" MouseLeftButtonUp="label1_MouseLeftButtonUp">
+            <Label.Background>
+                <ImageBrush ImageSource="/ClickGame;component/Images/smiley_laugh_1.png" />
+            </Label.Background>
+        </Label>
+    </Grid>
+    
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\bin\Debug\ClickGame.exe
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\bin\Debug\ClickGame.pdb
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame_MarkupCompile.cache
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame.g.resources
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame.Properties.Resources.resources
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame.csproj.GenerateResource.Cache
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame.exe
+C:\Users\AntonK\Documents\GitHub\TamagochiGame\Tamagochi\ClickGame\obj\x86\Debug\ClickGame.pdb
