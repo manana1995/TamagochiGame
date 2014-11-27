@@ -69,13 +69,14 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Parametr.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Parametr.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Parametr.Designer.cs">
-      <DependentUpon>Parametr.cs</DependentUpon>
+    <Compile Include="Parametr.xaml.cs">
+      <DependentUpon>Parametr.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -90,9 +91,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <EmbeddedResource Include="Parametr.resx">
-      <DependentUpon>Parametr.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -102,6 +100,15 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\heart_PNG690.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\smiley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\png_burger_1_by_celebtasticald4cqqxh.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

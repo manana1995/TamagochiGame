@@ -4,8 +4,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
-             d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
-            
+             d:DesignHeight="95" d:DesignWidth="135" BorderBrush="Black" BorderThickness="4">
+    <Grid Background="{x:Null}">
+        <ProgressBar Height="18" HorizontalAlignment="Left" Margin="12,51,0,0" Name="progressBar1" VerticalAlignment="Top" Width="107" BorderThickness="2" BorderBrush="Black" ValueChanged="progressBar1_ValueChanged" />
+        <Label Content="SomeText" Height="33" HorizontalAlignment="Left" Margin="34,12,0,0" Name="label1" VerticalAlignment="Top" Width="114" FontSize="18" FontFamily="Kartika" FontStretch="Normal" FontWeight="Bold" />
     </Grid>
 </UserControl>

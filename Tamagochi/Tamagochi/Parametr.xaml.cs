@@ -23,5 +23,13 @@ namespace Tamagochi
         {
             InitializeComponent();
         }
+
+        private void progressBar1_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            if (progressBar1.Value < 35)
+                progressBar1.Foreground = Brushes.DarkRed;
+            else
+                progressBar1.Foreground = Brushes.Green;
+        }
     }
 }

@@ -22,7 +22,12 @@ namespace Tamagochi
         public MainWindow()
         {
             InitializeComponent();
-
+            HealthBar.progressBar1.Value = 100;
+            HealthBar.label1.Content = "Health";
+            MoodBar.progressBar1.Value = 100;
+            MoodBar.label1.Content = "Mood";
+            HungerBar.progressBar1.Value = 100;
+            HungerBar.label1.Content = "Hunger";
         }
     }
 }
