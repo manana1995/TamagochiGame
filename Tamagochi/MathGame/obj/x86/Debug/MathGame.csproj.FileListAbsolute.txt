@@ -1,0 +1,11 @@
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\bin\Debug\MathGame.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\bin\Debug\MathGame.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame_MarkupCompile.cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame.g.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame.Properties.Resources.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\MathGame\obj\x86\Debug\MathGame.pdb

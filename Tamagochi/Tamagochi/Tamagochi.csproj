@@ -57,6 +57,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="bad.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="good.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -65,16 +73,29 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="bad.xaml.cs">
+      <DependentUpon>bad.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="good.xaml.cs">
+      <DependentUpon>good.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="norm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Parametr.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="norm.xaml.cs">
+      <DependentUpon>norm.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Parametr.xaml.cs">
       <DependentUpon>Parametr.xaml</DependentUpon>
     </Compile>
@@ -102,19 +123,53 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\heart_PNG690.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Images\smiley.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Images\png_burger_1_by_celebtasticald4cqqxh.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\dolar_670_auto_635_auto.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\537c645bb7a2ade8be67877a1.png" />
+    <ProjectReference Include="..\ClickGame\ClickGame.csproj">
+      <Project>{1330B160-169B-403D-9E90-6CE606C71024}</Project>
+      <Name>ClickGame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MathGame\MathGame.csproj">
+      <Project>{1426115F-7FF5-431A-B7F6-7136E3EB4A85}</Project>
+      <Name>MathGame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Puzzle Conquest\Conquest\Conquest.csproj">
+      <Project>{02ED857B-72A7-4854-B10B-A22228AE5396}</Project>
+      <Name>Conquest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\snake\Snake.csproj">
+      <Project>{8A3F8274-29C5-40F4-84BB-AD478F7A593F}</Project>
+      <Name>Snake</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\настроение.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\еда.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\деньги.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\здоровье.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\сова норм2.png" />
+    <Resource Include="Images\сова радость.png" />
+    <Resource Include="Images\сове плохо2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="сова норм2.png" />
+    <Resource Include="сова радость.png" />
+    <Resource Include="сове плохо2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\fon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\сова радость.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

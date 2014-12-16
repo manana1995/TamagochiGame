@@ -1,0 +1,14 @@
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\bin\Debug\TestProject.dll
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\bin\Debug\TestProject.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\bin\Debug\Conquest.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\bin\Debug\Conquest.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\obj\Debug\TestProject.dll
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\TestProject\obj\Debug\TestProject.pdb
+C:\Users\maria\Desktop\Tamagochi\TestProject\bin\Debug\TestProject.dll
+C:\Users\maria\Desktop\Tamagochi\TestProject\bin\Debug\TestProject.pdb
+C:\Users\maria\Desktop\Tamagochi\TestProject\bin\Debug\Conquest.exe
+C:\Users\maria\Desktop\Tamagochi\TestProject\bin\Debug\Conquest.pdb
+C:\Users\maria\Desktop\Tamagochi\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\Tamagochi\TestProject\obj\Debug\TestProject.dll
+C:\Users\maria\Desktop\Tamagochi\TestProject\obj\Debug\TestProject.pdb

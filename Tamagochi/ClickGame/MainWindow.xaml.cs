@@ -19,23 +19,26 @@ namespace ClickGame
     /// </summary>
     public partial class MainWindow : Window
     {
-        int increase = 20;
+        int increase = 10;
         int counter = 0;
-        private MediaPlayer mediaPlayer = new MediaPlayer();
+        public int score;
         System.Windows.Threading.DispatcherTimer t = new System.Windows.Threading.DispatcherTimer();
         public MainWindow()
         {          
             InitializeComponent();
-            mediaPlayer.Open(new Uri(@"pack://application:,,,/Resources/1.mp3", UriKind.RelativeOrAbsolute));
-            //m.Open(new Uri(@"pack://application:,,,/Resources/laughter.mp3", UriKind.RelativeOrAbsolute));
-            mediaPlayer.MediaEnded += play;
+            sound.Children.Clear();
+            MediaElement media = new MediaElement();
+            media.Source = new Uri("1.mp3", UriKind.Relative);
+            media.LoadedBehavior = MediaState.Manual;
+            sound.Children.Add(media);
+            media.Play();
+            media.Volume = 0.5;
+            media.MediaEnded += play;
             t.Tick += update;
-            //grid1.Children.Add(mediaPlayer);
             
-            t.Interval = TimeSpan.FromMilliseconds(20);
+            t.Interval = TimeSpan.FromSeconds(0.5);
             t.Start();
             progressBar1.Value = 0;
-            mediaPlayer.Play();
         }
 
         private void update(object sender, EventArgs e)
@@ -46,17 +49,19 @@ namespace ClickGame
 
         private void play(object sender, EventArgs e)
         {
-            mediaPlayer.Play();
+            ((MediaElement)(sound.Children[0])).Play();
         }
 
         private void label1_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            progressBar1.Value += 10;
+            progressBar1.Value += 1;
             if (progressBar1.Value == 100)
             {
                 t.Stop();
-                MessageBox.Show("Hurray! Your Mood increased by " + (int)(increase * ((double)50 / counter)));
-
+                ((MediaElement)(sound.Children[0])).Pause();
+                score = (int)(increase * ((double)50 / counter));
+                MessageBox.Show("Hurray! Your Mood increased by " + score);
+                this.Close();
             }
             label1.Margin = new Thickness(12, 20, 0, 0);
         }

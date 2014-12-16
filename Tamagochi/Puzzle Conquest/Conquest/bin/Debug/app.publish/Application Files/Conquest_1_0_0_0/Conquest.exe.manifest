@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Conquest.exe" version="1.0.0.0" publicKeyToken="a4c7a2409e003f65" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Conquest" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Conquest.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Conquest.exe" size="11776">
+      <assemblyIdentity name="Conquest" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>CaOcKHuLEg3sHlk9IyR8gGr7+WA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Машина\Антон" issuerKeyHash="6d87e268a4e65231c322d3d447c7b2201bf45020" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gSX4P/b3me4sHbN2BRL5t6QXWL8=</DigestValue></Reference></SignedInfo><SignatureValue>B2FgDQrEDjcpOnTYPAYyYnSnzaAWLHeQq183mgUbktvK5K/FpBHVDvnukZRXHboy07t5i91jUJthcy9ia884LilWvsXs+SfeUXQbihOoho4qFAm6Zuh3sc4Vs115INmYAHwWvQBOlVzgcqxIgeMf0Z08ANHeBapq7NOd6dSpNRE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xjVnTYDO9NTSKyT4KKXevB6MFfx5hPtx5sAqovKtTCU8nsMKaJfUaPCB0mT/fkvfpP9y7GzYmkH27KGdcVfk7abEvFtU2DhYIQ5g7OyLIkXSJTAUOULegD0EI4R2P9j9f0ZpLliSU4HMMpahuSXfBfalpkckGL09Hnt1q7ut94s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bf5817a4b7f9120576b31d2cee99f7f63ff82581" Description="" Url=""><as:assemblyIdentity name="Conquest.exe" version="1.0.0.0" publicKeyToken="a4c7a2409e003f65" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Машина\Антон</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CgS22EwnUt2FHa57r0UI6PnC3kc=</DigestValue></Reference></SignedInfo><SignatureValue>Gtl06AD68lCATiTBDYzPrbIy/qa6fHjZdRsCBTmhVz/urE1f+UX2NR5G7yiPMq2oSUqu0mcF3KRot7UGogxaaddakZ3js3Wia8nvAeieUx3TAQdR1J0SPwn5o/WqmyjG6kn++mJWtbo5AfrRkZJhwOCAUvF8REoKGyM9QswHWZ0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xjVnTYDO9NTSKyT4KKXevB6MFfx5hPtx5sAqovKtTCU8nsMKaJfUaPCB0mT/fkvfpP9y7GzYmkH27KGdcVfk7abEvFtU2DhYIQ5g7OyLIkXSJTAUOULegD0EI4R2P9j9f0ZpLliSU4HMMpahuSXfBfalpkckGL09Hnt1q7ut94s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQbAU9OuDVA7xA8Vi12tdHLTANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgEHAQwBEgEOAQ9BDAAXAQQBD0EQgQ+BD0wHhcNMTMxMjAxMTgwMjA3WhcNMTQxMjAyMDAwMjA3WjAjMSEwHwYDVQQDHhgEHAQwBEgEOAQ9BDAAXAQQBD0EQgQ+BD0wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMY1Z02AzvTU0isk+Cil3rwejBX8eYT7cebAKqLyrUwlPJ7DCmiX1GjwgdJk/35L36T/cuxs2JpB9uyhnXFX5O2mxLxbVNg4WCEOYOzsiyJF0iUwFDlC3oA9BCOEdj/Y/X9GaS5YklOBzDKWobkl3wX2paZHJBi9PR57dau7rfeLAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEApkyRxRmhQZSNu3T1Wo9xmafp+U09kRa/LrKjiP2qP1qblSWCBV2S4KQ5Vr8DQpeSfNTXyp5ouNZCvuy/MGWmQ1HCXBuzoAKx0Xm1pk7sPk2oIkkHh5zEEYhdU0DhhvL+taFUzvUl983sbgYqJOaJGZKCcFogsZr+ASUVaVIK2yg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

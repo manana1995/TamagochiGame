@@ -95,7 +95,10 @@
   <ItemGroup>
     <Resource Include="Images\smiley_laugh_1.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="1.mp3" />
+    <Resource Include="Images\сова радость.ico" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\1.mp3" />
   </ItemGroup>

@@ -1,41 +1,44 @@
 ﻿<Window x:Class="Tamagochi.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="640" Width="645" xmlns:my="clr-namespace:Tamagochi">
-    <Grid>
-        <WrapPanel Height="101" HorizontalAlignment="Left" Name="wrapPanel1" VerticalAlignment="Top" Width="435">
+        Title="" Height="663" Width="902" xmlns:my="clr-namespace:Tamagochi" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Initialized="Window_Initialized" Closing="Window_Closing" Icon="/Tamagochi;component/Images/сова%20радость.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="/Tamagochi;component/Images/fon.png" />
+    </Window.Background>
+    <Grid Height="630" Width="635">
+        <WrapPanel Height="101" HorizontalAlignment="Left" Name="wrapPanel1" VerticalAlignment="Top" Width="435" Margin="0,-2,0,0">
             <my:Parametr x:Name="HealthBar" Height="100" Width="145" />
             <my:Parametr x:Name="HungerBar" Width="145" Height="100" />
             <my:Parametr x:Name="MoodBar" Height="100" Width="145" />
         </WrapPanel>
-        <WrapPanel Height="121" HorizontalAlignment="Left" Margin="0,480,0,0" Name="wrapPanel2" VerticalAlignment="Top" Width="435">
-            <Button Height="120" Name="HealthButton" Width="145" BorderBrush="Black" BorderThickness="4">
+        <WrapPanel Height="144" HorizontalAlignment="Left" Margin="0,480,0,0" Name="wrapPanel2" VerticalAlignment="Top" Width="435">
+            <Button Height="140" Name="HealthButton" Width="145" BorderBrush="Black" BorderThickness="4" Click="HealthButton_Click">
                 <Button.Background>
-                    <ImageBrush ImageSource="/Tamagochi;component/Images/heart_PNG690.png" />
+                    <ImageBrush ImageSource="/Tamagochi;component/Images/здоровье.png" />
                 </Button.Background>
             </Button>
-            <Button Height="120" Name="MoodButton" Width="145" BorderBrush="Black" BorderThickness="4">
+            <Button Height="140" Name="button2" Width="145" BorderBrush="Black" BorderThickness="4" Click="button2_Click">
                 <Button.Background>
-                    <ImageBrush ImageSource="/Tamagochi;component/Images/smiley.png" />
+                    <ImageBrush ImageSource="/Tamagochi;component/Images/еда.png" />
                 </Button.Background>
             </Button>
-            <Button Height="120" Name="button2" Width="145" BorderBrush="Black" BorderThickness="4">
+            <Button Height="140" Name="MoodButton" Width="145" BorderBrush="Black" BorderThickness="4" Click="MoodButton_Click">
                 <Button.Background>
-                    <ImageBrush ImageSource="/Tamagochi;component/Images/png_burger_1_by_celebtasticald4cqqxh.png" />
+                    <ImageBrush ImageSource="/Tamagochi;component/Images/настроение.png" />
                 </Button.Background>
             </Button>
         </WrapPanel>
-        <Label Height="100" HorizontalAlignment="Left" Margin="441,0,0,0" Name="label2" VerticalAlignment="Top" Width="170" FontSize="32" FontWeight="Bold" FontFamily="Arabic Typesetting" VerticalContentAlignment="Bottom">
+        <Label Height="73" HorizontalAlignment="Left" Margin="453,0,0,0" Name="label2" VerticalAlignment="Top" Width="137" FontSize="32" FontWeight="Bold" FontFamily="Arabic Typesetting" VerticalContentAlignment="Bottom">
             <Label.Background>
                 <ImageBrush ImageSource="/Tamagochi;component/Images/dolar_670_auto_635_auto.png" />
             </Label.Background>
         </Label>
-        <Label Content="Label" Height="38" HorizontalAlignment="Center" Margin="441,106,0,0" Name="labelMoney" VerticalAlignment="Top" Width="170" FontFamily="Arabic Typesetting" FontSize="36" FontWeight="Bold" HorizontalContentAlignment="Right" />
-        <Button Height="120" HorizontalAlignment="Left" Margin="447,480,0,0" Name="button1" VerticalAlignment="Top" Width="176" BorderThickness="4" BorderBrush="Black">
+        <Label Content="Label" Height="38" HorizontalAlignment="Center" Margin="438,63,12,0" Name="labelMoney" VerticalAlignment="Top" Width="170" FontFamily="Arabic Typesetting" FontSize="36" FontWeight="Bold" HorizontalContentAlignment="Right" />
+        <Button Height="138" HorizontalAlignment="Left" Margin="474,480,0,0" Name="button1" VerticalAlignment="Top" Width="149" BorderThickness="4" BorderBrush="Black" Click="button1_Click">
             <Button.Background>
-                <ImageBrush ImageSource="/Tamagochi;component/Images/537c645bb7a2ade8be67877a1.png" />
+                <ImageBrush ImageSource="/Tamagochi;component/Images/деньги.png" />
             </Button.Background>
         </Button>
-        <Image Height="350" HorizontalAlignment="Left" Margin="0,124,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="611" />
+        <Grid Name="grid1" Margin="169,178,175,156"></Grid>
     </Grid>
 </Window>

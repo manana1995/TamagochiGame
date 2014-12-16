@@ -1,0 +1,92 @@
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\bin\Debug\Conquest.exe
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\bin\Debug\Conquest.pdb
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\MainWindow.baml
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\App.g.cs
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.g.resources
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.pdb
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\bin\Debug\Conquest.exe.manifest
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\bin\Debug\Conquest.application
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.exe.manifest
+C:\Users\Антон\Desktop\ХНА\Conquest\Conquest\obj\x86\Debug\Conquest.application
+C:\Users\Антон\Desktop\ХНА\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\Антон\Desktop\ХНА\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.pdb
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.pdb
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe.manifest
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.application
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.pdb
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.baml
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\App.g.cs
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.g.resources
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe.manifest
+C:\Users\Антон\Desktop\ХНА\Дискретная математика. Программы к экзамену\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.application
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.pdb
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe.manifest
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.application
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.pdb
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.baml
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.g.cs
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\App.g.cs
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.g.resources
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe.manifest
+F:\2013\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.application
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.pdb
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.application
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.pdb
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.g.resources
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Desktop\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.application
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.application
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\bin\Debug\Conquest.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.g.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.application
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest(добавить таблицу рекордов и подходящую фоновую заставку)\Conquest\obj\x86\Debug\Conquest.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\bin\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\bin\Debug\Conquest.application
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\bin\Debug\Conquest.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\bin\Debug\Conquest.pdb
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\MainWindow.baml
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\App.g.cs
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest_MarkupCompile.cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.g.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.Properties.Resources.resources
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.csproj.GenerateResource.Cache
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.exe.manifest
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.application
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.exe
+C:\Users\AntonK\Documents\GitHub\antonova-kitaykina\kitaykina-antonova\Tamagochi\Puzzle Conquest\Conquest\obj\x86\Debug\Conquest.pdb

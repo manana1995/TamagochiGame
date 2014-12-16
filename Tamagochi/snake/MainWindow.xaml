@@ -1,0 +1,6 @@
+﻿<Window x:Class="Snake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="550" Width="550" KeyDown="Window_KeyDown" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closing="Window_Closing" Icon="/snake;component/Images/сова%20радость.ico">
+    <WrapPanel Height="500" Name="Field" Width="500" />
+</Window>
